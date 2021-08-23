@@ -1,2 +1,5 @@
-# base_de_dades
-Sprint 17 Tasca 02 Base de dades MySQL
+Curs: ITAcademy Data Science
+
+Tasca: Base da dades MySQL - Tasca 2 (Sprint 17)
+
+Alumne: Roger Gallart
