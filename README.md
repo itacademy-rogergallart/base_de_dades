@@ -1,5 +1,6 @@
 Curs: ITAcademy Data Science
 
-Tasca: Base da dades MySQL - Tasca 2 (Sprint 17)
+- S17 T01: Bases de dades relacionals
+- S17 T02: Bases de dades MySQL
 
 Alumne: Roger Gallart
